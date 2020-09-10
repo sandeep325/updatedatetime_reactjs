@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/updatedigitaltime/static/css/main.d1fbad46.chunk.css",
-    "main.js": "/updatedigitaltime/static/js/main.d373117e.chunk.js",
-    "main.js.map": "/updatedigitaltime/static/js/main.d373117e.chunk.js.map",
-    "runtime-main.js": "/updatedigitaltime/static/js/runtime-main.8d558422.js",
-    "runtime-main.js.map": "/updatedigitaltime/static/js/runtime-main.8d558422.js.map",
-    "static/js/2.20db5985.chunk.js": "/updatedigitaltime/static/js/2.20db5985.chunk.js",
-    "static/js/2.20db5985.chunk.js.map": "/updatedigitaltime/static/js/2.20db5985.chunk.js.map",
-    "index.html": "/updatedigitaltime/index.html",
-    "precache-manifest.b5e03819897c29cd1c902033ce768312.js": "/updatedigitaltime/precache-manifest.b5e03819897c29cd1c902033ce768312.js",
-    "service-worker.js": "/updatedigitaltime/service-worker.js",
-    "static/css/main.d1fbad46.chunk.css.map": "/updatedigitaltime/static/css/main.d1fbad46.chunk.css.map",
-    "static/js/2.20db5985.chunk.js.LICENSE.txt": "/updatedigitaltime/static/js/2.20db5985.chunk.js.LICENSE.txt"
+    "main.css": "/updatedigitaltime_reactjs/static/css/main.d1fbad46.chunk.css",
+    "main.js": "/updatedigitaltime_reactjs/static/js/main.d373117e.chunk.js",
+    "main.js.map": "/updatedigitaltime_reactjs/static/js/main.d373117e.chunk.js.map",
+    "runtime-main.js": "/updatedigitaltime_reactjs/static/js/runtime-main.027aaf5a.js",
+    "runtime-main.js.map": "/updatedigitaltime_reactjs/static/js/runtime-main.027aaf5a.js.map",
+    "static/js/2.20db5985.chunk.js": "/updatedigitaltime_reactjs/static/js/2.20db5985.chunk.js",
+    "static/js/2.20db5985.chunk.js.map": "/updatedigitaltime_reactjs/static/js/2.20db5985.chunk.js.map",
+    "index.html": "/updatedigitaltime_reactjs/index.html",
+    "precache-manifest.91dceeb4807140837221e52955fee05a.js": "/updatedigitaltime_reactjs/precache-manifest.91dceeb4807140837221e52955fee05a.js",
+    "service-worker.js": "/updatedigitaltime_reactjs/service-worker.js",
+    "static/css/main.d1fbad46.chunk.css.map": "/updatedigitaltime_reactjs/static/css/main.d1fbad46.chunk.css.map",
+    "static/js/2.20db5985.chunk.js.LICENSE.txt": "/updatedigitaltime_reactjs/static/js/2.20db5985.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8d558422.js",
+    "static/js/runtime-main.027aaf5a.js",
     "static/js/2.20db5985.chunk.js",
     "static/css/main.d1fbad46.chunk.css",
     "static/js/main.d373117e.chunk.js"
